@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I’m Hasong Cho</h1>
 
-- 📫 How to reach me **hasongcho2001@gmail.com**
+- 👩🏻‍🎓 I'm an undergrad student studying data science and business
+- 📫 How to reach me **hasong2023@gmail.com**
+- 📚 Check out my projects through repository
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
