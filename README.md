@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Hasong Cho</h1>
 
-- 👩🏻‍🎓 I'm an undergrad student studying data science and business
-- 📫 How to reach me **hasong2023@gmail.com**
+- 👩🏻‍🎓 I'm a Masters student studying business Analytics
+- 📫 How to reach me **hc3523@columbia.edu**
 - 📚 Check out my projects through repository
 
 <h3 align="left">Connect with me:</h3>
