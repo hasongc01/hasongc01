@@ -103,13 +103,6 @@ My interests lie in **business experiments, predictive analytics and emerging te
 💬 <b>Prompt Engineering</b> · 🧠 <b>Agentic AI</b> · 🗂️ <b>Text Mining (NLP)</b>
 </p> 
 
----
-
-## 🎓 Education
-
-🎓 **Columbia University** — M.S. in Business Analytics *(Aug 2024 – Dec 2025)*  
-
-🏫 **Emory University** — B.B.A. in Business Administration, Double Major in Data Science *(Aug 2019 – May 2024)*  
 
 ---
 
