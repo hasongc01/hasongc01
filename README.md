@@ -7,7 +7,7 @@
 
 
 <p align="center">
-💻 Former Intern @ Kargo (Ad-Tech) and PwC Consulting  
+💻 Former Data Intern @ Kargo (Ad-Tech) and PwC Consulting  
 </p>
 
 
