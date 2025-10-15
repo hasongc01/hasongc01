@@ -36,12 +36,12 @@ My interests lie in **business experiments, predictive analytics and emerging te
 
 #### 🎯 A/B Testing  
 - [**Digital Product Ad Monetization Strategy**](https://github.com/hasongc01/A-B-Testing-Ad-Monetization-Strategy)  
-  *Keywords:* Regression Analysis · Heterogeneous Treatment Effect (HTE) · Statistical Power · Causal Lift  
-  *Summary:* Designed and analyzed A/B experiments on ad design and promotional strategies using regression and HTE analysis in Python to measure causal lift and identify high-impact customer segments.  
+  - *Keywords:* Regression Analysis · Heterogeneous Treatment Effect (HTE) · Statistical Power · Causal Lift  
+  - *Summary:* Designed and analyzed A/B experiments on ad design and promotional strategies using regression and HTE analysis in Python to measure causal lift and identify high-impact customer segments.  
 
 - [**eCommerce Coupon Promotions Strategy**](https://github.com/hasongc01/A-B-Testing-Coupon-Campaign)  
-  *Keywords:* Promotional Strategy · Revenue Lift · Campaign Performance · Experiment Validation  
-  *Summary:* Applied A/B testing to evaluate coupon promotion effects on revenue and user engagement, conducting randomization checks and guardrail metric validation.  
+  - *Keywords:* Promotional Strategy · Revenue Lift · Campaign Performance · Experiment Validation  
+  - *Summary:* Applied A/B testing to evaluate coupon promotion effects on revenue and user engagement, conducting randomization checks and guardrail metric validation.  
 
 #### 🔍 Difference-in-Differences (DiD)  
 - *Coming soon:* Brick-and-Mortar Store Sales Analysis using Difference-in-Differences (BOPS introduction)  
@@ -56,14 +56,14 @@ My interests lie in **business experiments, predictive analytics and emerging te
 
 #### 🌲 Classification Prediction  
 - [**Click-Through Rate (CTR) Prediction**](https://github.com/hasongc01/A-B-Testing-Ad-Monetization-Strategy)  
-  *Keywords:* Logistic Regression · Random Forest · Model Diagnostics · AUC · Precision-Recall  
-  *Summary:* Built classification models to predict CTR on an ad auction platform; applied model evaluation metrics to validate predictive accuracy and business relevance.  
+  - *Keywords:* Logistic Regression · Random Forest · Model Diagnostics · AUC · Precision-Recall  
+  - *Summary:* Built classification models to predict CTR on an ad auction platform; applied model evaluation metrics to validate predictive accuracy and business relevance.  
 
 #### ⏱️ Time Series Forecasting  
 - [**Atlanta Eviction Forecasting**](https://github.com/hasongc01/Atlanta_Eviction_Prediction)  
-  *Work Experience:* Data Science Research Fellow @ Emory University Center for AI Learning *(Summer 2023)*  
-  *Keywords:* ARIMA · Time-Series Modeling · Forecast Accuracy · Socioeconomic Analysis  
-  *Summary:* Developed time-series forecasting models to predict weekly eviction filings using housing and economic data.  
+  - *Work Experience:* Data Science Research Fellow @ Emory University Center for AI Learning *(Summer 2023)*  
+  - *Keywords:* ARIMA · Time-Series Modeling · Forecast Accuracy · Socioeconomic Analysis
+  - *Summary:* Developed time-series forecasting models to predict weekly eviction filings using housing and economic data.  
 
 ---
 
@@ -76,11 +76,11 @@ My interests lie in **business experiments, predictive analytics and emerging te
 - Developed LLM-based data automation workflows for text analysis and data cleaning.  
 - Integrated text-to-SQL and agentic AI workflows for analytics automation and insight generation.  
 
-- [**E-Commerce-Review-Text-Analysis-and-Ratings-Classification**](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/tree/main)
-
-  *Work Experience:* Data Science Trainee (Brightics AI Ambassador) @ Samsung SDS *(Winter 2022)*  
-  *Keywords:* Text Mining (NLP) · Classification 
-  *Summary:* Conducted large-scale e-commerce review analysis using Brightics AI to classify product ratings and uncover customer sentiment patterns.
+#### 🗂️ NLP Text Analysis
+- [**eCommerce Text Review Analysis**](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/tree/main)  
+  - *Work Experience:* Data Science Trainee (Brightics AI Ambassador) @ Samsung SDS *(Winter 2022)*  
+  - *Keywords:* Text Mining (NLP) · Classification
+  - *Summary:* Conducted large-scale e-commerce review analysis using Brightics AI to classify product ratings and uncover customer sentiment patterns.  
 
 ---
 
