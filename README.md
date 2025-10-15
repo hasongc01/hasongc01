@@ -6,14 +6,7 @@
 </p>
 
 
-<p align="center">
-💻 Former Data Intern @ Kargo (Ad-Tech) and PwC Consulting  
-</p>
-
-
-I’m passionate about applying **data science to marketing, digital products, e-commerce, and retail**, using analytics and experimentation to drive measurable business impact.  
-
-My interests lie in **business experiments, predictive analytics and emerging technology**, bridging data-driven insights with business decision-making.  
+I’m passionate about applying **data science to marketing, digital products, e-commerce, and retail**, using **business experiments, predictive analytics and emerging technology**, bridging data-driven insights with business decision-making.  
 
 
 <p align="center">
@@ -80,7 +73,7 @@ My interests lie in **business experiments, predictive analytics and emerging te
 - [**eCommerce Text Review Analysis**](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/tree/main)  
   - *Work Experience:* Data Science Trainee (Brightics AI Ambassador) @ Samsung SDS *(Winter 2022)*  
   - *Keywords:* Text Mining (NLP) · Classification
-  - *Summary:* Conducted large-scale e-commerce review analysis using Brightics AI to classify product ratings and uncover customer sentiment patterns.  
+  - *Summary:* Conducted large-scale e-commerce review analysis using Brightics AI to classify product ratings and uncover customer sentiment patterns.
 
 ---
 
