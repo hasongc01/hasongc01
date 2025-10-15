@@ -67,7 +67,7 @@ My interests lie in **business experiments, predictive analytics and emerging te
 
 ---
 
-### 📚 **Emerging Tech & LLMs**
+### 📚 **Emerging Tech: Agentic AI, LLM, NLP**
 
 <p align="center">
 💬 <b>Prompt Engineering</b> · 🤖 <b>Agentic AI</b> · 🗂️ <b>Text Mining (NLP)</b>
@@ -75,6 +75,12 @@ My interests lie in **business experiments, predictive analytics and emerging te
 
 - Developed LLM-based data automation workflows for text analysis and data cleaning.  
 - Integrated text-to-SQL and agentic AI workflows for analytics automation and insight generation.  
+
+- [**E-Commerce-Review-Text-Analysis-and-Ratings-Classification**](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/tree/main)
+
+  *Work Experience:* Data Science Trainee (Brightics AI Ambassador) @ Samsung SDS *(Winter 2022)*  
+  *Keywords:* Text Mining (NLP) · Classification 
+  *Summary:* Conducted large-scale e-commerce review analysis using Brightics AI to classify product ratings and uncover customer sentiment patterns.
 
 ---
 
