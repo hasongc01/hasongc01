@@ -55,7 +55,7 @@ I’m passionate about applying **data science to marketing, digital products, e
 #### ⏱️ Time Series Forecasting  
 - [**Atlanta Eviction Forecasting**](https://github.com/hasongc01/Atlanta_Eviction_Prediction)  
   - *Work Experience:* Data Science Research Fellow @ Emory University Center for AI Learning *(Summer 2023)*  
-  - *Keywords:* ARIMA · Time-Series Modeling · Forecast Accuracy · Socioeconomic Analysis
+  - *Keywords:* ARIMA · Time-Series Modeling
   - *Summary:* Developed time-series forecasting models to predict weekly eviction filings using housing and economic data.  
 
 ---
@@ -77,34 +77,6 @@ I’m passionate about applying **data science to marketing, digital products, e
   - *Work Experience:* Data Science Trainee (Brightics AI Ambassador) @ Samsung SDS *(Winter 2022)*  
   - *Keywords:* Text Mining (NLP) · Classification
   - *Summary:* Conducted large-scale e-commerce review analysis using Brightics AI to classify product ratings and uncover customer sentiment patterns.
-
----
-
-## 🧠 Applied Technical Skills from Industry Experience
-
----
-
-### 💡 Data Analyst Intern @ Kargo *(Summer 2025)*
-
-#### 🧱 Data Engineering & BI  
-<p align="center">
-🗄️ <b>SQL</b> (Snowflake, BigQuery) · 🧭 <b>dbt</b> · ⚙️ <b>ETL Pipelines</b> · 📊 <b>Dashboarding</b> (Looker, Tableau)
-</p>
-
-#### 📊 Product & Marketing Analytics  
-<p align="center">
-📢 <b>Campaign Performance Measurement</b> · 👥 <b>User Segmentation</b> · 🛒 <b>Funnel Analysis</b> · 🚀 <b>Incrementality Testing</b>
-</p>
-
----
-
-### 🧩 Data Science Intern @ PwC Consulting *(Summer 2024)*
-
-#### 📚 Emerging Tech & LLMs  
-<p align="center">
-💬 <b>Prompt Engineering</b> · 🧠 <b>Agentic AI</b> · 🗂️ <b>Text Mining (NLP)</b>
-</p> 
-
 
 ---
 
