@@ -66,8 +66,11 @@ I’m passionate about applying **data science to marketing, digital products, e
 💬 <b>Prompt Engineering</b> · 🤖 <b>Agentic AI</b> · 🗂️ <b>Text Mining (NLP)</b>
 </p>
 
-- Developed LLM-based data automation workflows for text analysis and data cleaning.  
-- Integrated text-to-SQL and agentic AI workflows for analytics automation and insight generation.  
+#### 🤖 Agentic AI
+- [**Agentic AI Reflection Design Pattern**](https://github.com/hasongc01/Agentic-AI-Reflection-Design-Pattern)  
+  - *Keywords:* Agentic AI 
+  - *Summary:* Creates Chart Generation, Text-to-SQL, Research Agent with Reflection Design Patterns.
+
 
 #### 🗂️ NLP Text Analysis
 - [**eCommerce Text Review Analysis**](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/tree/main)  
