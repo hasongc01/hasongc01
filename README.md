@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I’m Hasong Cho</h1>
 
 
-<p align="center">
-🎓 Currently studying @ Columbia University (M.S. in Business Analytics)
-</p>
-
 
 I’m passionate about applying **data science to marketing, digital products, e-commerce, and retail**, using **business experiments, predictive analytics and emerging technology**, bridging data-driven insights with business decision-making.  
 
@@ -67,10 +63,12 @@ I’m passionate about applying **data science to marketing, digital products, e
 </p>
 
 #### 🤖 Agentic AI
+- [**Agentic Shopping AI GUI Simulator**](https://github.com/hasongc01/ACES-Agentic-e-Commerce-Simulator)  
+  - *Keywords:* Agentic AI, Streamlit, Data Visualization
+  - *Summary:* Creates Graphic Interface/ Simulator of Agentic Shopping AI (ACES).
 - [**Agentic AI Reflection Design Pattern**](https://github.com/hasongc01/Agentic-AI-Reflection-Design-Pattern)  
   - *Keywords:* Agentic AI 
   - *Summary:* Creates Chart Generation, Text-to-SQL, Research Agent with Reflection Design Patterns.
-
 
 #### 🗂️ NLP Text Analysis
 - [**eCommerce Text Review Analysis**](https://github.com/hasongc01/E-Commerce-Review-Text-Analysis-and-Ratings-Classification/tree/main)  
@@ -79,6 +77,4 @@ I’m passionate about applying **data science to marketing, digital products, e
   - *Summary:* Conducted large-scale e-commerce review analysis using Brightics AI to classify product ratings and uncover customer sentiment patterns.
 
 ---
-
-⭐️ *Open to opportunities in data science, marketing analytics, experimentation, and product analytics for full-time role in 2025.*
 
