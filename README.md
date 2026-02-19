@@ -34,8 +34,8 @@ I’m passionate about applying **data science to marketing, digital products, e
 
 #### 🔍 Difference-in-Differences (DiD)  
 - [**Retail Strategy**](https://github.com/hasongc01/Diff-in-Diff-Omni-Channel-Retail-Growth-Strategy)
-- *Keywords:* Difference-in-Difference · pre-trend credibility checks · Databricks  
-- *Summary:* Omni-channel (Brick-and-Mortar Store & Online) Sales Analysis using causal analysis, ETL for data processing, and dashboarding for leadership decision making  
+  - *Keywords:* Difference-in-Difference · pre-trend credibility checks · Databricks  
+  - *Summary:* Omni-channel (Brick-and-Mortar Store & Online) Sales Analysis using causal analysis, ETL for data processing, and dashboarding for leadership decision making  
 
 ---
 
