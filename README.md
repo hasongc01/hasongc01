@@ -33,7 +33,9 @@ I’m passionate about applying **data science to marketing, digital products, e
   - *Summary:* Applied A/B testing to evaluate coupon promotion effects on revenue and user engagement, conducting randomization checks and guardrail metric validation.  
 
 #### 🔍 Difference-in-Differences (DiD)  
-- *Coming soon:* Brick-and-Mortar Store Sales Analysis using Difference-in-Differences (BOPS introduction)  
+- [**Retail Strategy**](https://github.com/hasongc01/Diff-in-Diff-Omni-Channel-Retail-Growth-Strategy)
+- *Keywords:* Difference-in-Difference · pre-trend credibility checks · Databricks  
+- *Summary:* Omni-channel (Brick-and-Mortar Store & Online) Sales Analysis using causal analysis, ETL for data processing, and dashboarding for leadership decision making  
 
 ---
 
