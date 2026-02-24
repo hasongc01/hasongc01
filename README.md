@@ -9,7 +9,7 @@ I’m passionate about applying **data science to marketing, digital products, e
 🤝 <b>Check out my Notion page for Sample Work</b><br>
 🔗 <a href="https://www.linkedin.com/in/hasongcho]">LinkedIn</a> &nbsp; | &nbsp;
 💻 <a href="https://github.com/hasongc01">GitHub</a> &nbsp; | &nbsp;
-🇳 <a href="https://certain-beechnut-21b.notion.site/Hasong-Cho-Sample-Work-Portfolio-2e207609ac8b806eb277e8ffe77e03b2)">Notion</a> &nbsp; | &nbsp;
+🇳 <a href="https://certain-beechnut-21b.notion.site/Hasong-Cho-Sample-Work-Portfolio-2e207609ac8b806eb277e8ffe77e03b2">Notion</a> &nbsp; | &nbsp;
   
 </p>
 
